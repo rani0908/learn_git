@@ -14,10 +14,10 @@ For now I know
 # Tips / Shortcuts
 
 **VSCODE:**
-Type ! and press enter to generate sample HTML.
-ctrl + ` -> Show/Hide Terminal
-ctrl + B -> Show/Hide Explorer
-ctrl + P -> Search files by file name or from the list
-ctrl + P -> Type : + line number -> Go to a line number
-ctrl + P -> Type @ + Symbol -> Go to a symbol
-alt + z  -> Wrap lines when VSCODE is minimized view
+Type ! and press enter to generate sample HTML. <br>
+ctrl + \` -> Show/Hide Terminal <br>
+ctrl + B -> Show/Hide Explorer <br>
+ctrl + P -> Search files by file name or from the list <br>
+ctrl + P -> Type : + line number -> Go to a line number <br>
+ctrl + P -> Type @ + Symbol -> Go to a symbol <br>
+alt + z  -> Wrap lines when VSCODE is minimized view <br>
